@@ -1,0 +1,9 @@
+{
+  "name": "lyla-tache1-practice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node tests/core.test.mjs"
+  }
+}
